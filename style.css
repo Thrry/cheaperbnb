@@ -1,0 +1,96 @@
+html {
+ font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.top {
+  background: url(img/fond2.png) no-repeat center fixed;
+  -webkit-background-size: cover; /* pour Chrome et Safari */
+  -moz-background-size: cover; /* pour Firefox */
+  -o-background-size: cover; /* pour Opera */
+  background-size: cover; /* version standardisée */
+  }
+
+.navbar-brand, .navbar-brand a {
+  font-weight: bold;
+  size:40px;
+  color:black;
+}
+.navbar-brand img {
+}
+
+
+.banner {
+  padding-top: 150px;
+  width:70%;
+  margin:auto;
+  }
+
+.banner h1 {
+  font-weight: bold;
+  font-size: 45px;
+  background-color: rgba(0, 0, 0, 1);
+  color:white;
+  display: inline;
+  margin-bottom: 20px;
+  }
+
+.banner p {
+  font-weight: 300;
+  font-size: 25px;
+  background-color: rgba(0, 0, 0, 1);
+  color:white;
+  display: inline;
+  }
+
+.cta {
+  margin-top: 100px;
+  padding-bottom: 100px;
+  }
+
+.fond {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.7);
+
+  }
+
+.fond img {
+  width:5em;
+  }
+
+.cards {
+  background: url(http://subtlepatterns.com/patterns/congruent_pentagon.png);
+  background: #FF9900;
+  }
+
+.card {
+  padding-bottom: 50px;
+  padding-top: 50px;
+  text-align: center;
+  }
+.card h3 {
+  font-size: 25px;
+  font-weight: 300;
+}
+
+.card p {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.footer {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: black;
+  color:#FFFAF0;
+}
+
+.footer .name {
+  text-align: center}
+
+.footer .name a {
+  color:#FFFAF0;
+}
+
+.footer ul {
+  list-style-type: none;
+}
